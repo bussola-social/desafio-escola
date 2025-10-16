@@ -100,13 +100,13 @@ sequenceDiagram
 - A Arquitetura e o System Design da aplicação será um diferencial, decida, documente e argumente
 - Testes automatizados devem ser implementados (PHPUnit ou semelhante)
 - O projeto deve estar preparado para inclusão de novas entidades (como professores, turmas, etc.)
+- Dockerizar para facilitar a execução
 
 ### Diferenciais
 
 - Documentação da API (Swagger ou similar)
 - Envio de e-mails (Mailpit, Mailhog ou outro SMTP fake para testes)
 - Scripts de seeders/fixtures para popular a aplicação com dados iniciais
-- Docker para facilitar a execução
 
 ## Entrega
 
