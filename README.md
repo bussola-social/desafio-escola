@@ -1,12 +1,11 @@
 # Sistema de Gerenciamento Escolar
 
-Repositório com o desafio a ser resolvido pelos candidatos à vaga de **backend**.  
+Repositório com o desafio a ser resolvido pelos candidatos à vaga de **fullstack**.  
 
 > Um sistema de gerenciamento escolar permite que cursos, disciplinas e alunos sejam cadastrados e relacionados, possibilitando a recuperação dos dados de forma organizada.  
 
 Você precisa desenvolver uma **API RESTful** para gerenciar cursos, disciplinas e alunos de uma escola.  
 
-**Apenas implemente a camada de regras de negócio e a API.** Não é necessário frontend.  
 
 ---
 
