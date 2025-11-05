@@ -96,11 +96,18 @@ sequenceDiagram
 
 ## Requisitos
 
-- Deve ser desenvolvido utilizando PHP OO (com ou sem frameworks), design patterns e princípios SOLID, se optar por frameworks sugerimos Laravel ou Symfony.
-- A Arquitetura e o System Design da aplicação será um diferencial, decida, documente e argumente
-- Testes automatizados devem ser implementados (PHPUnit ou semelhante)
-- O projeto deve estar preparado para inclusão de novas entidades (como professores, turmas, etc.)
-- Dockerizar para facilitar a execução
+- **Backend:**
+    - Deve ser desenvolvido utilizando PHP OO (com ou sem frameworks), design patterns e princípios SOLID, se optar por frameworks sugerimos Laravel ou Symfony.
+    - A Arquitetura e o System Design da aplicação será um diferencial, decida, documente e argumente
+    - Testes automatizados devem ser implementados (PHPUnit ou semelhante)
+    - O projeto deve estar preparado para inclusão de novas entidades (como professores, turmas, etc.)
+    - Dockerizar para facilitar a execução
+- **Frontend:**
+    - Deve ser desenvolvido utilizando VueJS, design patterns e princípios SOLID.
+    - Pode fazer CSS puro ou utilizar alguma biblioteca que facilite o uso.
+    - A Arquitetura e o System Design da aplicação será um diferencial, decida, documente e argumente
+    - Testes automatizados será um diferencial
+    - Dockerizar para facilitar a execução
 
 ### Diferenciais
 
